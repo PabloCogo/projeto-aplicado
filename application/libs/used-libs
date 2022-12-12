@@ -1,0 +1,10 @@
+npm i react-router-dom --save
+npm i styled-components --save
+
+npm i --save @fortawesome/fontawesome-svg-core
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/react-fontawesome
+
+npm i axios --save
+npm i --save react-apexcharts apexcharts
+npm i @mui/material @emotion/react @emotion/styled @mui/icons-material --save
